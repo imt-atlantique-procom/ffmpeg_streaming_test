@@ -1,0 +1,1 @@
+ffplay -rtsp_flags listen rtsp://localhost:8888/live.sdp?tcp
