@@ -1,1 +1,2 @@
-# streaming_test
+# Streaming tests using ffmpeg
+
