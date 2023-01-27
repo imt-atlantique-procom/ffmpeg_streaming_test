@@ -1,1 +1,1 @@
-ffplay tcp://localhost:8888?listen
+ffplay tcp://localhost:3333?listen
