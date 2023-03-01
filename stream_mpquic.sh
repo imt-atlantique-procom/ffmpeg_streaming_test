@@ -7,4 +7,4 @@ cd ../quic_forwarder/
 ./start_client.sh > /dev/null 2>&1 &
 cd $INITIAL_PATH
 sleep 5
-./mpegts_tcp_2_sender.sh && pkill -9 ffplay
+./mpegts_tcp_2_sender.sh 1111 && pkill -9 ffplay
