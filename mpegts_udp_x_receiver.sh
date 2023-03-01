@@ -1,1 +1,1 @@
-ffplay udp://localhost:8888
+ffplay -fflags nobuffer -flags low_delay -framedrop udp://localhost:8888
